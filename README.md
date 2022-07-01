@@ -12,7 +12,3 @@ Pour faire fonctionner cette application node.js vous aurez besoin d'installer :
 
 Pour lancer le frontend avec vue, entrez "npm run serve" dans votre terminal (ctrl + C pour quitter)
 Pour lancer le backend entrez "nodemon" dans votre terminal (ctrl + C pour quitter)
-
-Pour accéder à l'historique des commits et voir l'évolution de l'application:
-- partie front end : https://github.com/ClemenceBonneaud/OpenClassrooms_P7_Groupomania_front
-- partie back end : https://github.com/ClemenceBonneaud/OpenClassrooms_P7_Groupomania_back
